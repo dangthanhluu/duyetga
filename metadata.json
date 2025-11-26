@@ -1,0 +1,5 @@
+{
+  "name": "DuyetGA v3",
+  "description": "Một ứng dụng web để quản lý quy trình phê duyệt Kế hoạch bài dạy, bao gồm các vai trò cho giáo viên, tổ trưởng chuyên môn, phó hiệu trưởng và hiệu trưởng.",
+  "requestFramePermissions": []
+}
